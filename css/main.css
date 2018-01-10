@@ -243,6 +243,10 @@ p.paragraph {
 	.socialproof .logos {
 		flex-direction: row;
 	}
+	.centervertical {
+               flex-direction: column;
+               justify-content: center;
+	       margin-top: none}
 }.ctas-button,
 .ctas-button-2, .ctas-button-3 {
 	display: inline-block;
@@ -294,11 +298,19 @@ p.paragraph {
 	.footer .footer-nav .col-3 {
 		width: 50%;
 	}
+	.centervertical {
+               flex-direction: column;
+               justify-content: center;
+	       margin-top: none}
 }
 @media(max-width: 500px) {
 	.footer .footer-nav .col-3 {
 		width: 100%;
 	}
+	.centervertical {
+               flex-direction: column;
+               justify-content: center;
+	       margin-top: none}
 }.ctas-input {
 	outline: none;
 	border: none;
@@ -335,6 +347,10 @@ p.paragraph {
 	.ctas-button {
 		margin: 10px 0 0 0;
 	}
+	.centervertical {
+               flex-direction: column;
+               justify-content: center;
+	       margin-top: none}
 }.feature1 {
 	padding: 90px 0 0 0;
 }
