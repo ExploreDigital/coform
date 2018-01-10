@@ -856,14 +856,14 @@ button:focus {
   background-color: #fff;
   color: #535353
 }
-.next-section {
+.dash-section {
  position: absolute;
- width: 190px;
- border-left: 3px dashed#ffe41e;
  left: 50%;
  text-align: center;
  font-size: 16px;
- height: 70px;
+ height: 70px;	
+ width: 190px;
+ border-left: 3px dashed#ffe41e;
  padding-top: 6px;
  color: #ffe41e;
  z-index: 100; 
