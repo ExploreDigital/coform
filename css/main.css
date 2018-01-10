@@ -181,6 +181,7 @@ p.paragraph {
 	}
 	.header	.col-6 {
 		width: 100%;
+		padding-top: 300px;
 	}
   .btn-primary-1,.btn-primary{
 	display: none;
@@ -472,6 +473,9 @@ p.paragraph {
   .btn-primary-1,.btn-primary{
 	display: none;
 }
+	.header {
+		padding-top: 300px;
+	}
 }
 .btn {
   font-weight: 600;
