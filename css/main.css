@@ -220,6 +220,9 @@ p.paragraph {
 	  .btn-primary-1,.btn-primary{
 	display: none;
 }
+	.header	.col-6 {
+                 width: 100%;
+		padding-top: 210px; }
 }.socialproof {
 	padding: 90px 0;
 }
@@ -303,6 +306,9 @@ p.paragraph {
                flex-direction: column;
                justify-content: center;
 	       margin-top: none}
+	.header	.col-6 {
+                 width: 100%;
+		padding-top: 210px; }
 }
 @media(max-width: 500px) {
 	.footer .footer-nav .col-3 {
@@ -473,9 +479,9 @@ p.paragraph {
   .btn-primary-1,.btn-primary{
 	display: none;
 }
-	.header {
-		padding-top: 300px;
-	}
+.header	.col-6 {
+                 width: 100%;
+		padding-top: 210px; }
 }
 .btn {
   font-weight: 600;
