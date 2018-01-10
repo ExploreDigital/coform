@@ -166,7 +166,7 @@ p.paragraph {
   justify-content: center;
   overflow: hidden;
 }
-header .h-fullscreen {
+.header .h-fullscreen {
   padding: -180px 0 0px 0;
   max-height: 100%;
   justify-content: center;
@@ -189,7 +189,7 @@ header .h-fullscreen {
 		width: 100%;
 		padding-top: 300px;
 	}
-	header .h-fullscreen {
+	.header .h-fullscreen {
                 padding: -180px 0 0px 0;
  		max-height: 100%;
   		justify-content: center;
@@ -235,7 +235,7 @@ header .h-fullscreen {
 	.header	.col-6 {
                  width: 100%;
 		padding-top: 295px; }
-	header .h-fullscreen {
+	.header .h-fullscreen {
   		padding: -180px 0 0px 0;
   		max-height: 100%;
   		justify-content: center;
