@@ -222,7 +222,7 @@ p.paragraph {
 }
 	.header	.col-6 {
                  width: 100%;
-		padding-top: 210px; }
+		padding-top: 295px; }
 }.socialproof {
 	padding: 90px 0;
 }
@@ -308,7 +308,7 @@ p.paragraph {
 	       margin-top: none}
 	.header	.col-6 {
                  width: 100%;
-		padding-top: 210px; }
+		padding-top: 295px; }
 }
 @media(max-width: 500px) {
 	.footer .footer-nav .col-3 {
@@ -481,7 +481,7 @@ p.paragraph {
 }
 .header	.col-6 {
                  width: 100%;
-		padding-top: 210px; }
+		padding-top: 295px; }
 }
 .btn {
   font-weight: 600;
