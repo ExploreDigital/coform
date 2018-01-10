@@ -25,8 +25,8 @@ body {
 /*text*/
 .heading {
   font-weight: 100;
-  font-size: 50px;
-  line-height: 68px;
+  font-size: 46px;
+  line-height: 58px;
 }
 @media (max-width: 900px) {
 .heading {
